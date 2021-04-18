@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/netflixo/static/css/main.0af9742f.chunk.css",
-    "main.js": "/github.io/netflixo/static/js/main.68227249.chunk.js",
-    "main.js.map": "/github.io/netflixo/static/js/main.68227249.chunk.js.map",
-    "runtime-main.js": "/github.io/netflixo/static/js/runtime-main.c6ab4fc7.js",
-    "runtime-main.js.map": "/github.io/netflixo/static/js/runtime-main.c6ab4fc7.js.map",
-    "static/js/2.513b4d55.chunk.js": "/github.io/netflixo/static/js/2.513b4d55.chunk.js",
-    "static/js/2.513b4d55.chunk.js.map": "/github.io/netflixo/static/js/2.513b4d55.chunk.js.map",
-    "static/js/3.00a1d0b1.chunk.js": "/github.io/netflixo/static/js/3.00a1d0b1.chunk.js",
-    "static/js/3.00a1d0b1.chunk.js.map": "/github.io/netflixo/static/js/3.00a1d0b1.chunk.js.map",
-    "index.html": "/github.io/netflixo/index.html",
-    "static/css/main.0af9742f.chunk.css.map": "/github.io/netflixo/static/css/main.0af9742f.chunk.css.map",
-    "static/js/2.513b4d55.chunk.js.LICENSE.txt": "/github.io/netflixo/static/js/2.513b4d55.chunk.js.LICENSE.txt"
+    "main.css": "/netflixo/static/css/main.0af9742f.chunk.css",
+    "main.js": "/netflixo/static/js/main.68227249.chunk.js",
+    "main.js.map": "/netflixo/static/js/main.68227249.chunk.js.map",
+    "runtime-main.js": "/netflixo/static/js/runtime-main.f28b0c7e.js",
+    "runtime-main.js.map": "/netflixo/static/js/runtime-main.f28b0c7e.js.map",
+    "static/js/2.69e0717d.chunk.js": "/netflixo/static/js/2.69e0717d.chunk.js",
+    "static/js/2.69e0717d.chunk.js.map": "/netflixo/static/js/2.69e0717d.chunk.js.map",
+    "static/js/3.00a1d0b1.chunk.js": "/netflixo/static/js/3.00a1d0b1.chunk.js",
+    "static/js/3.00a1d0b1.chunk.js.map": "/netflixo/static/js/3.00a1d0b1.chunk.js.map",
+    "index.html": "/netflixo/index.html",
+    "static/css/main.0af9742f.chunk.css.map": "/netflixo/static/css/main.0af9742f.chunk.css.map",
+    "static/js/2.69e0717d.chunk.js.LICENSE.txt": "/netflixo/static/js/2.69e0717d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6ab4fc7.js",
-    "static/js/2.513b4d55.chunk.js",
+    "static/js/runtime-main.f28b0c7e.js",
+    "static/js/2.69e0717d.chunk.js",
     "static/css/main.0af9742f.chunk.css",
     "static/js/main.68227249.chunk.js"
   ]
